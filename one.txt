@@ -1,3 +1,8 @@
 Machine learning 
 Data Science 
 RAG
+
+
+computer vision 
+cyber physical systems 
+Added new data 
